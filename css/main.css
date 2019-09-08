@@ -9,5 +9,5 @@ body{
     background-color:color|transparent|initial|inherit; 
     background-image:url(images/bg_pic.jpg);
     background-position:center; 
-    background-size:cover; 
+    background-size:300px 100px; 
 }
