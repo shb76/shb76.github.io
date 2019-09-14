@@ -1,29 +1,12 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Sharanya Bandla</title>
-		<!-- link to main stylesheet -->
-		<link rel="stylesheet" type="text/css" href="/css/main.css"> 
-	</head>
-	<body>
-	    <div class = "heading"> 
-	        <span class= "title1">Sharanya Bandla</span> 
-	        <span class= "title2">Developing mildly cool ML stuff</span> 
-	    </div>
-		<nav>
-    		<ul>
-        		<li><a href="/resume">Resume</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-		<footer>
-    		<ul>
-        		<li><a href="mailto:shb76@pitt.edu">email</a></li>
-        		<li><a href="https://github.com/shb76">github.com/shb76</a></li>
-        	    <li><a href="https://www.linkedin.com/in/sharanya-bandla-22218614b/
-			     ">LinkedIn Profile</a></li>
-			</ul>
-		</footer>
-	</body>
-</html>
+---
+layout: default
+---
 
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  {% include post.html post=post content=post.content %}
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+    {% include pagination.html maxPages=5 %}
+{% endif %}

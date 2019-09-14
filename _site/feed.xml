@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>/mildlycoolblogshb76.github.io/</link>
+    <atom:link href="/mildlycoolblogshb76.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 14 Sep 2019 19:45:40 -0400</pubDate>
+    <lastBuildDate>Sat, 14 Sep 2019 19:45:40 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Hungary</title>
+        <description>&lt;p&gt;My first trip post college was spent roaming the Balkan states with three like minded explorers. We traveled through 5 countries in less than two weeks on a nifty and 
+sometimes smelly coach bus. Throughout my journey my expectations of former Yugoslavia were defied at every turn.
+I had pictured dilapidated communist style buildings, but was surprised to find gorgeous structures of neoclassical and baroque styles. 
+I expected to be in awe by the cities we visited, but spent most of my time marveling at gorgeous turquoise waters and plush hills. 
+Our first stop was Budapest. The capital of Hungary can be split into two parts Buda and Pest. Buda is the hilly residential side, while Pest is the flat metroplis. 
+Buda and Pest straddle either side the Danube and are connected by an array of bridges. When in Budapest visit the ruin bars and stop by the open air market for 
+hand crafted souvenirs. Make sure to try some goulash and chicken paprikash. Regrettably we only had two days in Budapest, I can’t wait to go back and explore some more.&lt;/p&gt;
+&lt;div class=&quot;post-image post-image--split&quot;&gt;
+    &lt;img src=&quot;/travel_pics/overlook_budapest.jpg&quot; alt=&quot;Overlook from top of Gellert Hill&quot; width=&quot;365&quot; height=&quot;220&quot; /&gt;
+    &lt;img src=&quot;/travel_pics/basilica 1.23.24 PM.JPG&quot; alt=&quot;The second in an example of split-imagery&quot; width=&quot;365&quot; height=&quot;220&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;/travel_pics/buda_night.jpg&quot; alt=&quot;spa panorama&quot; /&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;Hungarian Parliament building at night&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 12 May 2019 00:00:00 -0400</pubDate>
+        <link>/mildlycoolblogshb76.github.io/jekyll/theme/2019/05/12/the-galileo-theme/</link>
+        <guid isPermaLink="true">/mildlycoolblogshb76.github.io/jekyll/theme/2019/05/12/the-galileo-theme/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>theme</category>
+        
+      </item>
+    
+  </channel>
+</rss>
