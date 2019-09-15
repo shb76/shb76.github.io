@@ -20,6 +20,6 @@ hand crafted souvenirs. Make sure to try some goulash and chicken paprikash. Reg
 </div>
 
 <div class="post-image">
-    <img src="/travel_pics/buda_night.jpg" alt="spa panorama"/>
+    <img src="/travel_pics/buda_night.JPG" alt="spa panorama"/>
     <p class="post-image-caption">Hungarian Parliament building at night</p>
 </div>
